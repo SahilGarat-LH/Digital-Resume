@@ -6,7 +6,7 @@ This Digital Resume is made using React. The data on the portfolio is directly l
 
 
 
-## 1. Install Dependancies
+## Install Dependancies
 
 Next, you need to install all the dependancies using:
 
