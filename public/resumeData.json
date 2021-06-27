@@ -84,7 +84,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "NETFLIX Clone (React JS)",
+        "title": "Netflix Clone (React JS)",
         "category": "",
         "image": "netflix.png",
         "url": "https://netflix-27bf2.web.app"
@@ -94,6 +94,12 @@
         "category": "",
         "image": "Amazon.jpg",
         "url": "https://github.com/SahilGarat23/Amazon-Clone.git"
+      },
+      {
+        "title": "Twitter Clone (React JS)",
+        "category": "",
+        "image": "Twitter.png",
+        "url": "https://twitter-4dd48.web.app"
       }
     ]
   }
